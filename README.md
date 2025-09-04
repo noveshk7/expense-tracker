@@ -60,10 +60,33 @@ npm run preview
 
 ---
 
-## 👨‍💻 Author
+## 📖 Usage
+1. Enter a transaction name and amount.
+2. Choose whether it's income or expense.
+3. View your balance update in real time.
+4. Delete a transaction when no longer needed.
 
-- Developed by **Novesh Kumar Gautam**
-- GitHub: [noveshk7](https://github.com/noveshk7)
+---
+
+## 🌟 Future Enhancements
+- 💾 Persistent storage with LocalStorage or Database
+- 📈 Graphical charts of expenses and income
+- 🌐 Multi-language support
+- 🌓 Dark/Light mode toggle
+
+---
+
+## 🤝 Contributing
+Contributions are welcome!
+- Fork the repo
+- Create a feature branch
+- Submit a pull request 🚀
+
+---
+
+## 👨‍💻 Author
+Developed by **Novesh Kumar Gautam**  
+GitHub: [noveshk7](https://github.com/noveshk7)
 
 ---
 
